@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      "angular-cookies",
+      "/root/Boco/frontend"
+    ]
+  ],
+  "_from": "angular-cookies@latest",
+  "_hasShrinkwrap": false,
+  "_id": "angular-cookies@1.7.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular-cookies",
+  "_nodeVersion": "8.11.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/angular-cookies_1.7.4_1536312732689_0.16987635746570384"
+  },
+  "_npmUser": {
+    "email": "pete@bacondarwin.com",
+    "name": "petebd"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "angular-cookies",
+    "raw": "angular-cookies",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-cookies/-/angular-cookies-1.7.4.tgz",
+  "_shasum": "f234ba50bfc03b18fe5bc15390002d45c5ce3e78",
+  "_shrinkwrap": null,
+  "_spec": "angular-cookies",
+  "_where": "/root/Boco/frontend",
+  "author": {
+    "email": "angular-core+npm@google.com",
+    "name": "Angular Core Team"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular.js/issues"
+  },
+  "dependencies": {},
+  "description": "AngularJS module for cookies",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 8,
+    "integrity": "sha512-NIEjCFkLD6YLQPBhycyszDJ0EFlXYxhmwRRgOnuAuHfch3Uz65Lp7LcHwg4tFJQs28jNK9j0CDbGKx87wQbatg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbkkWdCRA9TVsSAnZWagAAjHAP/1RTNEIkrf1yHzOZ351q\nDqpUlAeksOUMH4EMHfv+5R4fMEe2RndafLnCqMqKifsPQnim4SuTo2FjSsF2\n2KnoN//ediH/0sXSy9JRjdPfAHQMjVwTvrCuVxE00eOMhkKrCSqKh9YoUQyF\nZvScH0yXIL8klcTfcitziyXcUKDg6Y/zclrDUea/c2cxfcLh0ZmAJ3/n13QZ\nKdo/9TK/mWqig6MMw1jBfbrKUD7apthMwe/Wm9qQWgoUxqZKi27BWQeyqGWY\nNzoRYMnvcm+DREeq14ZbgMgDkxFppwxqNFeZHrv86jggHMNE6SzziqZ24Y/T\nZpgWzSlxtMjE0Gialt94JfieTZOqMeu+NFNEXAWqvjaUi2hehNx4hOO/069B\n4XKRjHmXx9yaGFc+AavJZ+WwKPJwtoE/hPe0f4OLWwpWIPEu4eQmTSK2EQdm\ntq6f99XUCZaN6F2GE2raiX55x7xYTye+CgYCAaGkQrW0JNONpd0u7+Gr81aY\n7yHFlJMYPCpu88q+2QACZAdZ+9ozzOhcgxdOYj1jO2lwqkn8Jl9DS+Es2zZy\nnmQYwF+dVZF7/Vbom/9SBt59jX80E++SSWny1OK8QtoFtPX0+LTTc6ef+I2f\n/lVcSnMS7TNpKrfLdPj3sjRZ3Xm4OpAOf0cyecfD8Tpf+gn9+aCghGS+oVqY\nYtOl\r\n=Aq1b\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "f234ba50bfc03b18fe5bc15390002d45c5ce3e78",
+    "tarball": "https://registry.npmjs.org/angular-cookies/-/angular-cookies-1.7.4.tgz",
+    "unpackedSize": 16955
+  },
+  "gitHead": "ba6f9b346c43890d1098fff96aa55c938aaa2c4a",
+  "homepage": "http://angularjs.org",
+  "jspm": {
+    "shim": {
+      "angular-cookies": {
+        "deps": [
+          "angular"
+        ]
+      }
+    }
+  },
+  "keywords": [
+    "angular",
+    "browser",
+    "client-side",
+    "cookies",
+    "framework"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "angular",
+      "email": "devops+npm@angular.io"
+    },
+    {
+      "name": "angularcore",
+      "email": "angular-core+npm@google.com"
+    },
+    {
+      "name": "petebd",
+      "email": "pete@bacondarwin.com"
+    }
+  ],
+  "name": "angular-cookies",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.7.4"
+}
